@@ -22,6 +22,7 @@
 /** Имя базы данных для WordPress */
 define( 'DB_NAME', 'vkamne' );
 
+
 /** Имя пользователя MySQL */
 define( 'DB_USER', 'root' );
 
